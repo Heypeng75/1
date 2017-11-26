@@ -1,0 +1,2 @@
+public interface Shoots {
+}
